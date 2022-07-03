@@ -11,7 +11,7 @@ public class WelcomeController {
     
     @GetMapping
     public String welcome(){
-        return "Welcome To Springboot REST API !!";
+        return "Welcome To Springboot REST API coba cek conflict !!";
     }
 
     @PostMapping
