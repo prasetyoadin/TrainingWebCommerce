@@ -16,7 +16,7 @@ public class WelcomeController {
 
     @PostMapping
     public String other(){
-        return "Data Lain";
+        return "Data Lain dibuat di branch Prasetyo";
     }
 
 }
